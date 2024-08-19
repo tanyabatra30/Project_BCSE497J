@@ -1,2 +1,2 @@
-Topic: The Role of AI in Ethical Decision-Making: Can Machines Have Morals?
+Topic: Real life violence detection using video dataset
 

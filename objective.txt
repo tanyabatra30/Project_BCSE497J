@@ -1,2 +1,21 @@
 Topic: Real life violence detection using video dataset
 
+
+
+Introduction to the topic
+The proliferation of Internet-of-Things (IoT) technologies, such as surveillance cameras, has significantly enhanced the monitoring of public spaces. This development coincides with a growing concern about crime and violence, including terrorism, in these areas. Despite these advancements, research into the automatic recognition of criminal incidents using artificial intelligence (AI)—specifically through machine learning and computer vision—remains relatively scarce. One of the primary obstacles to progress in this field is the scarcity of real-world data, largely due to legal and privacy concerns. This shortage of data hinders the training and testing of machine learning models that could potentially revolutionize crime detection.
+
+Current challenges in Violence Detection
+The automatic detection of violent activities in public spaces is a complex task, primarily due to the limited availability of labeled video data that can be used to train AI models. Privacy regulations and legal restrictions make it challenging to gather and utilize real surveillance footage for research purposes. As a result, machine learning models, which rely heavily on large datasets for training, often fall short in performance due to the lack of adequate training data. This issue underscores the need for alternative approaches to data collection and model training.
+
+Proposed Solution
+One promising solution to the data scarcity problem is the use of virtual gaming environments, such as those found in platforms like Grand Theft Auto (GTA). These virtual environments can simulate a wide range of scenarios, including various forms of criminal activity, providing a rich source of data for training AI models. However, a critical question remains: Does synthetically generated data from virtual games sufficiently resemble real-world scenarios to be useful in improving the performance of machine learning models?
+
+Proposed Framework
+In this work, we propose a machine learning framework for violence detection using virtual gaming data or situational data. The framework is designed as a 3-stage end-to-end system that can be integrated into crime detection systems. The proposed approach is divided into two main components: (1) person identification and (2) violence activity recognition.
+
+Person Identification
+The first component focuses on identifying virtual persons and determining whether their characteristics closely resemble those of real-world individuals. This step is crucial for ensuring that the synthetic data is realistic enough to be useful for training AI models.
+
+Violence Activity Recognition
+The second component involves recognizing violent activities within the virtual environment. By leveraging the simulated scenarios, the framework aims to identify patterns and actions that are indicative of violence, which can then be translated into real-world applications.
